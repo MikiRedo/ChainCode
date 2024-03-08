@@ -1,7 +1,5 @@
 # Core functions chaincode - GOLANG
 
-[TOC]
-
 ## Introducción
 
 Este chaincode ha sido desarrollado para el módulo **Cómo Desplegar una red de Fabric** del bootcamp de Blockchain de **Keepcoding**. Contiene una serie de funciones para explorar cómo funcionan las API para chaincodes en Golang, y que nos servirán para probar ciertas características de la plataforma en relación a smart contracts.
