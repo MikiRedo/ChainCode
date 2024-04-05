@@ -7,3 +7,5 @@ type Event struct {
 	Type          string   `json:"type" validate:"required"`
 	Payload       []byte   `json:"payload" validate:"required"`
 }
+
+//he intentado añadair el otro struct aquí, pero me da error el go mod
